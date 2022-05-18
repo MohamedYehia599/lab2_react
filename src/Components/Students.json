@@ -1,0 +1,41 @@
+{
+"students":[
+    {
+        "id":1,
+        "name":"ahmed",
+        "email":"ahmed@gmail.com",
+        "grade":"A"
+    },
+    {
+        "id":2,
+        "name":"ali",
+        "email":"ali@gmail.com",
+        "grade":"B"
+    },
+    {
+        "id":3,
+        "name":"adel",
+        "email":"adel@gmail.com",
+        "grade":"A+"
+    },
+    {
+        "id":4,
+        "name":"samy",
+        "email":"samy@gmail.com",
+        "grade":"B+"
+    },
+    {
+        "id":5,
+        "name":"mohamed",
+        "email":"mohamed@gmail.com",
+        "grade":"C+"
+    }
+
+]
+
+
+
+
+
+
+}
